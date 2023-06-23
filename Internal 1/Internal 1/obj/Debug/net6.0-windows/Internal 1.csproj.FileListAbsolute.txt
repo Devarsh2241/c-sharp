@@ -1,0 +1,24 @@
+D:\.NET\Internal 1\Internal 1\bin\Debug\net6.0-windows\Internal 1.exe
+D:\.NET\Internal 1\Internal 1\bin\Debug\net6.0-windows\Internal 1.deps.json
+D:\.NET\Internal 1\Internal 1\bin\Debug\net6.0-windows\Internal 1.runtimeconfig.json
+D:\.NET\Internal 1\Internal 1\bin\Debug\net6.0-windows\Internal 1.dll
+D:\.NET\Internal 1\Internal 1\bin\Debug\net6.0-windows\Internal 1.pdb
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.csproj.AssemblyReference.cache
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.Form1.resources
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.csproj.GenerateResource.cache
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.AssemblyInfoInputs.cache
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.AssemblyInfo.cs
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.csproj.CoreCompileInputs.cache
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.dll
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\refint\Internal 1.dll
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.pdb
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal 1.genruntimeconfig.cache
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\ref\Internal 1.dll
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.task1.resources
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.task4.resources
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.task2.resources
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.task5.resources
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.task6.resources
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.task7.resources
+D:\.NET\Internal 1\Internal 1\obj\Debug\net6.0-windows\Internal_1.task8.resources
