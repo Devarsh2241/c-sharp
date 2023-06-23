@@ -17,14 +17,14 @@ namespace Internal_1
         {
             InitializeComponent();
         }
-        string str2,str_1;
+        string str2, str_1;
         private void btnsubmit_Click(object sender, EventArgs e)
         {
             string str = txt1.Text;
-            str = Regex.Replace(str,"[a - zA - Z0 - 9]", "");
+            str = Regex.Replace(str, "[a - zA - Z0 - 9]", "");
             str_1 = str;
-            
-            for (int i = str.Length-1; i>= 0; i--) 
+
+            for (int i = str.Length - 1; i >= 0; i--)
             {
                 str2 += str[i].ToString();
 
@@ -38,5 +38,7 @@ namespace Internal_1
                 MessageBox.Show("String is not Pallindrome");
             }
         }
+
+       
     }
 }

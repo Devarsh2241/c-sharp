@@ -49,6 +49,7 @@
             txt1.Name = "txt1";
             txt1.Size = new Size(294, 27);
             txt1.TabIndex = 1;
+            txt1.TextChanged += txt1_TextChanged;
             // 
             // label1
             // 

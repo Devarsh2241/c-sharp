@@ -55,7 +55,7 @@
             btn1.Name = "btn1";
             btn1.Size = new Size(200, 50);
             btn1.TabIndex = 2;
-            btn1.Text = "button1";
+            btn1.Text = "convert";
             btn1.UseVisualStyleBackColor = true;
             btn1.Click += btn1_Click;
             // 
